@@ -5,4 +5,4 @@ Welcome to my practice space! I am using this repository to solve coding problem
 ## Progress Checklist
 - [x] Create repository
 - [x] Write a Hello World script
-- [ ] Solve an Even/Odd number check
+- [x] Solve an Even/Odd number check
